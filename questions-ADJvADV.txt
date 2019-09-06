@@ -1,0 +1,99 @@
+16
+He (correct, correctly) defined the terms. The answer sounded (correctly, correct).
+correct/correctly
+corrrect/correct
+correctly/correct
+correctly/correctly
+c
+She (quickly, quick) adjusted the fees. She adapted (quick, quickly) to any situation.
+quickly/quickly
+quickly/quick
+quick/quickly
+quick/quick
+a
+He measured the floor (exact, exactly). They proved to be (perfectly, perfect) (exact, exactly) measurements.
+exactly/perfectly/exactly
+exact/perfect/exactly
+exact/perfect/exact
+exactly/perfectly/exact
+d
+The stillness of the tomb was (awfully, awful). The tomb was (awfully, awful) still.
+awful/awful
+awfully/awful
+awfully/awfully
+awful/awfully
+d
+It was a (dangerously, dangerous) lake to swim in. The man was (dangerous, dangerously) drunk. The gas smelled (dangerously,dangerous)
+dangerously/dangerously/dangerous
+dangerous/dangerously/dangerous
+dangoursly/dangerous/dangerous
+dangerous/dangerously/dangerously
+b
+She performed (magnificent, magnificently). It was a (magnificent, magnificently) beautiful performance.
+magnificiently/magnificently
+magnificent/mangnificantly
+magnificantly/magnificent
+magnificent/mangnificent
+a
+Her voice sounds (beautifully, beautiful). She sang the song (exact, exactly) as it was written. We heard it (perfectly, perfect).
+beautiful/exactly/perfect
+beautifully/exactly/perfectly
+beautiful/exact/perfect
+beautiful/exactly/perfecly
+d
+He was a very (sensibly, sensible) person. He acted very (sensible, sensibly).
+sensibly/sensibly
+senbible/sensible
+sensible/sensibly
+sensibly/sensible
+c
+Mike wrote too (slow, slowly) on the exam. He always writes (slow, slowly)
+slowly/slow
+slow/slowly
+slowly/slowyly
+slow/slow
+c
+Talk (softly, soft) or don't talk at all. The music played (softly, soft).
+softly/soft
+softly/softly
+soft/softly
+soft/soft
+b
+Andrea knows the material very (good, well). She always treats us (good, well)
+good/good
+well/good
+good/well
+well/well
+d
+You must send payments (regular, regularly). We deal on a (strictly, strict) cash basis.
+regularly/strictly
+regularly/strict
+strict/regular
+reguler/strict
+a
+The mechanic's tools were (well, good). The foreman said that his work was (good, well) done.
+good/well
+well/good
+well/well
+good/good
+a
+She worked (careful, carefully) with the sick child. She was a very (careful, carefully) worker.
+careful/carefully
+carefully/carefully
+careful/careful
+carefully/careful
+d
+He did not pass the course as (easy, easily) as he thought he would. The final exam was (extreme/extremely) hard.
+easily/extreme
+easy/extrememly
+easily/extremely
+easy/extreme
+c
+I find this novel very (interesting, interestingly). It was (interesting, interestingly) written.
+interesting/interestingly
+interestingly/interestingly
+interestingly/interesting
+interesting/interesting
+a
+
+
